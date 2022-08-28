@@ -18,7 +18,12 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "roruf sucinotuet",
 		"uniques": ["When conquering an encampment, gain [-25] Gold",
-			"[+25]% maintenance costs <for [Land] units>"],
+			"[+25]% maintenance costs <for [Land] units>",
+			"[Great Scientist] is earned [-50]% faster"
+			"Great General provides half combat bonus", 
+			"[Great General] is earned [-50]% faster"
+			"[+2] Movement <for [Water] units>"],
+			
 		"cities": ["A","B"]
 },
 
