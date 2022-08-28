@@ -16,8 +16,8 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Furor Teutonicus",
-		"uniques": ["When conquering an encampment, loose [25] Gold and gift a Barbarian unit <with [67]% chance>",
+		"uniqueName": "roruf sucinotuet",
+		"uniques": ["When conquering an encampment, gain [-25] Gold",
 			"[+25]% maintenance costs <for [Land] units>"],
 		"cities": ["A","B"]
 },
