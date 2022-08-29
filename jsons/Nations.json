@@ -39,11 +39,11 @@
 			"[-50]% [Culture] from City-States",
 			"[-50]% [Faith] from City-States",
 			"[-100]% Yield from every [Natural Wonder]",
-			"[+1] Movement <for [Mounted] units>",
+			"[-1] Movement <for [Mounted] units>",
 			"Earn [-100]% of killed [Military] unit's [Strength] as [Culture]",
-			[+50]% maintenance on road & railroads",
+			"[+50]% maintenance on road & railroads",
 			"[-1] Movement <for [Embarked] units>",
-			"[1] Movement point cost to disembark <for [All] units>"
+			/////"[1] Movement point cost to disembark <for [All] units>"//////Thats a good ability
 			"Gain [-90] Influence with a [Great Person] gift to a City-State",
 			"When declaring friendship, both parties gain a [-10]% boost to great person generation",
 			"May choose [-1] additional belief(s) of any type when [founding] a religion"
@@ -54,7 +54,7 @@
 			
 			
 			],
-		"cities": ["A","B"]
+		"cities": ["A","B","C"]
 },
 
 
